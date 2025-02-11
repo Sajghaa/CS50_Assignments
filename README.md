@@ -14,4 +14,3 @@ Each assignment folder includes the necessary files and instructions to complete
 ## Getting Started
 
 To get started with any assignment, navigate to the respective folder and follow the instructions provided in the README file within that folder.
-
